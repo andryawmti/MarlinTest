@@ -3,6 +3,8 @@ MarlinTest build with laravel
 
 #note
 
-->Please change RAJAONGKIR_API_KEY to yours
+->Rename .env.example to .env
+
+->Change RAJAONGKIR_API_KEY inside .env file to your own api key
 
 ->Have a nice day
